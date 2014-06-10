@@ -28,7 +28,7 @@ require(['app','backbone','routers/index','controllers/index'],function(app,Back
 
   app.start();
   new Router({
-    controller : Controller
+    controller : new Controller()
   });
   Backbone.history.start();
 });
