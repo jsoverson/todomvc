@@ -1,3 +1,8 @@
+# NOTE : This fork and Marionette isn't maintained
+
+It hasn't been updated for 2+ years. It no longer represents an example of modern day Marionette or BackBone Usage. The fork is sticking around to maintain link. Please visit the official [marionettejs.com](http://marionettejs.com/) website for up-to-date documentation.
+
+
 # TodoMVC
 
 #### Helping you select an MV\* framework
